@@ -6276,7 +6276,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1530599859
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6760,7 +6760,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1596755158
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7799,7 +7799,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Jos\xE9 repiso\n\nAguas santas nu\xF1ez, por la tostada\n\nPedro sanchez\n\nElena
+  m_Text: "Jos\xE9 repiso\n\nAguas santas nu\xF1ez, por la tostada\n\nPerro s\xE1nchez\n\nElena
     ruiz\n\nmargarita rivas"
 --- !u!222 &1885827433
 CanvasRenderer:
